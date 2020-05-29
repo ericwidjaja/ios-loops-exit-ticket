@@ -40,14 +40,14 @@ for i in 1..<100 {
 }
 ```
 
-B)
+B) 
 ```swift
 for j in 1...100 {
     print(j)
 }
 ```
 
-C)
+C) 
 ```swift
 for k in 1..<1000 where k < 101 {
     print(k)
@@ -60,7 +60,7 @@ for l in 1...100 where _ < 101 {
     print(l)
 }
 ```
-// A, B, and C.
+// B and C 
 ***
 ## Question 3
 
